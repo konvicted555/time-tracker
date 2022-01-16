@@ -20,7 +20,7 @@
     <table cellspacing="20">
         <tr>
             <td>
-                <img src="https://ibb.co/VQD41GT" alt="myImage" height="220" width="200" />
+                <img src="https://i.ibb.co/xfGTkb6/IMG-7764.jpg" alt="myImage" height="220" width="200" />
             </td>
             <td>
                 <h1>Rahul Chauhan</h1>
