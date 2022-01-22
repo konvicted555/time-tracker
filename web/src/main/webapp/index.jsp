@@ -56,12 +56,12 @@
 
         </tr>
         <tr>
-            <td>angular development</td>
-            <td>⭐️⭐️</td>
+            <td>Amazon Web Services</td>
+            <td>⭐️⭐️⭐️⭐️</td>
 
         </tr>
         <tr>
-            <td>sql development</td>
+            <td>Jenkins</td>
             <td>⭐️⭐️⭐️⭐️</td>
 
         </tr>
